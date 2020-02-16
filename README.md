@@ -1,5 +1,5 @@
 
-# Forecasting Sales Fast-Food Chain
+# Forecasting Sales in a Fast-Food Chain
 
 In today’s highly competitive and constantly changing business environment, the accurate and timely estimation of future sales, also known as sales prediction or sales forecasting, can offer critical knowledge to companies involved in the manufacturing, wholesale or retail of products. Short-term predictions mainly help in production planning and stock management, while long-term predictions can help in business development decision making. In our specific case, we have a fast-food chain in Brazil with 400 stores with difficulty in predicting its short term production.
 Sales prediction is particularly important for this particular company due to the short shelf-life of many of its products, which leads to loss of income in both shortage and surplus situations. Producing too many leads to waste of products, while producing too few leads to opportunity loss. Therefore we have a situation where predicting correctly how much you have to produce each item each day is important.
